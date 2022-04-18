@@ -604,6 +604,7 @@ img {
 }
 
 .join-title {
+	display: block;
 	margin-bottom: 20px;
 	font-size: inherit;
 	line-height: 1.14;
